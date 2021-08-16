@@ -190,3 +190,5 @@ These are the notebooks for the tutorial.
 .. _n07_simulation.ipynb: http://nbviewer.ipython.org/github/pydy/pydy-tutorial-human-standing/blob/master/notebooks/n07_simulation.ipynb
 .. _n08_visualization.ipynb: http://nbviewer.ipython.org/github/pydy/pydy-tutorial-human-standing/blob/master/notebooks/n08_visualization.ipynb
 .. _n09_control.ipynb: http://nbviewer.ipython.org/github/pydy/pydy-tutorial-human-standing/blob/master/notebooks/n09_control.ipynb
+
+https://www.youtube.com/watch?v=r4piIKV4sDw&t=5777s
